@@ -2,7 +2,7 @@
 title: "Intuitive Opportunity"
 excerpt: "Most of these thoughts are raw and intuitive, based on experience and the ongoing process of building. We're in the middle of accumulating this knowledge as we haven't yet created a sustainable company, but we feel like we're on the way. Currently we're living the reality of work that we wish to share with many people, as there's an opportunity in the present moment to build a future where work provides security, independence, and meaning."
 coverImage: "/assets/blog/opportunity/cover.png"
-date: "2025-11-04T05:35:07.322Z"
+date: "2025-11-11T05:35:07.322Z"
 author:
   name: Oleg
   picture: "/assets/blog/authors/Oleg.png"
