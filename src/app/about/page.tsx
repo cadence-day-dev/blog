@@ -11,7 +11,7 @@ const teamMembers = [
   {
     name: "Oleg",
     image: "/assets/blog/authors/Oleg.png",
-    shortDescription: "Oleg draws on 16 years across industries, from health-tech and virtual clinics to engineering and product architecture, to shape how we build both product and process. His experience informs our approach to creating tools that respect human complexity.",
+    shortDescription: "Oleg draws on 16 years across industries, from managing product teams in health-tech to managing digital transformation on mega construction projects. His experience informs our approach to creating tools that respect human complexity.",
     extendedDescription: "..."
   },
   {
