@@ -22,7 +22,7 @@ Cadence takes a different approach. It's built around a simple premise: producti
 
 The main goal is to understand our rhythm so we can orchestrate a life where everything that matters gets the time it deserves. The collapse of traditional work structures seems to be approaching, but perhaps it is not al that bad, perhaps it is an invitation to discover how we can respect the complexity of human energy and attention, to build systems that serve us rather than the other way around.
 
-In this new world that is approaching self-knowledge agency and self-reliance are essential. This new worlds is about the outcomes and not about the work hours, and therefore for the tools need to help us reveal the right time for working and creating when the focus is high and the attention can be fully controlled.
+In this new world that is approaching self-knowledge agency and self-reliance are essential. This new worlds is about the outcomes and not about the 40 hour work week, and therefore for the tools need to help us reveal the right time for working and creating when the focus is high and the attention can be fully controlled.
 
 The opportunities are vast, but they require us to shape our own scaffolding and invent our own systems.We need to understand our rhythms, honor our needs, and build lives that reflect our values.
 
