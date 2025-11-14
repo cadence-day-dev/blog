@@ -15,7 +15,7 @@ export function Intro() {
       <h4 className="md:flex text-right text-sm font-normal tracking-widest text-white">
         <span className="mx-3"/>
         <Link href="/about" className="hover:underline">
-          ABOUT
+          TEAM
         </Link>
         <span className="mx-3"/>
       </h4>

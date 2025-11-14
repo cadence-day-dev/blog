@@ -11,7 +11,7 @@ const teamMembers = [
   {
     name: "Oleg",
     image: "/assets/blog/authors/Oleg.png",
-    shortDescription: "Oleg draws on 16 years across industries, from managing product teams in health-tech to managing digital transformation on mega construction projects. His experience informs our approach to creating tools that respect human complexity.",
+    shortDescription: "Oleg spent 16 years building products, processes, and teams across industries, from mega-projects to intimate apps. Since starting cadence he has been living his dream working on a personally meaningful and beautiful product with people he respects completely, both personally and professionally.",
     extendedDescription: "..."
   },
   {
