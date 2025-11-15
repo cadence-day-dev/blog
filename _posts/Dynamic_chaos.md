@@ -33,7 +33,7 @@ Along the way I was starting to feel the burn out in that setup, so I eventually
 
 After gaining control over my emotional state, I started wanting to work, because work is awesome, and it was just natural that I would continue with the system and use it in an attempt to create a product. 
 
-The name Cadence captured accurately the nature of the product, since at times it feels that the cadence of the life is off and it needs to be brought back the comfortable setting. 
+The name Cadence captured accurately the nature of the product, since at times it feels that the cadence of the life is off and it needs to be brought back to the comfortable setting. 
 
 The main idea with Cadence is to provide a system that guards against losing track, or at least if that happend to have a sytem that lets on get on track.
 

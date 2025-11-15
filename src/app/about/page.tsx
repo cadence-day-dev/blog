@@ -50,12 +50,12 @@ export default function About() {
               {/* ABOUT */}
             </h1>
             
-            <div className="text-lg leading-relaxed">
+            <div className="text-lg leading-relaxed mb-12 mt-10">
               
               <p className="mb-6">
              Cadence is built by three people who know what it's like to step away from traditional work and face the question: how do you structure time when no one else is doing it for you?
 
-Together, we span our 20s, 30s, and 40s, bringing different perspectives on how people actually live and work. In CADENCE we are building a space where people can understand their own rhythms, honor their needs, and build lives that reflect their values rather than someone else's structure.       </p>       
+              Together, we span our 20s, 30s, and 40s, bringing different perspectives on how people actually live and work. In <span className="font-bold">CADENCE</span> we are building a space where people can understand their own rhythms, honor their needs, and build lives that reflect their values rather than someone else's structure.       </p>       
               {/* Authors Section */}
               <div className="grid md:grid-cols-3 gap-8 md:gap-12">
                 {teamMembers.map((member) => (
