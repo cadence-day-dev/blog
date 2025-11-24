@@ -22,15 +22,9 @@ export function PostHeader({ title, coverImage, date, author }: Props) {
   // Team member data (same as in about page)
   const teamMembers = [
     {
-      name: "Driss",
-      image: "/assets/blog/authors/Driss.png",
+      name: "Andrea",
+      image: "/assets/blog/authors/Andrea.png",
       shortDescription: "...",
-      extendedDescription: "..."
-    },
-    {
-      name: "Bruno",
-      image: "/assets/blog/authors/Bruno.png",
-      shortDescription: "Oleg combines technical expertise with creative vision, specializing in the integration of technology and craft in contemporary design practice.",
       extendedDescription: "..."
     },
     {
@@ -39,7 +33,13 @@ export function PostHeader({ title, coverImage, date, author }: Props) {
       shortDescription: "...",
       extendedDescription: "..."
     },
-  ];
+    {
+      name: "Bruno",
+      image: "/assets/blog/authors/Bruno.png",
+      shortDescription: "...",
+      extendedDescription: "..."
+    },
+    ];
 
   const openModal = (member: any) => {
     setSelectedMember(member);

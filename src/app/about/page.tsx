@@ -46,13 +46,13 @@ export default function About() {
         <Intro />
         <article className="mb-2.5 md:mb-32">
           <div className="max-w-2xl mx-auto">
-            <h1 className="text-md md:text-lg tracking-wider leading-tight mb-12 text-left uppercase font-normal">
-              {/* ABOUT */}
-            </h1>
+            {/* <h1 className="text-md md:text-lg tracking-wider leading-tight mb-12 text-left uppercase font-normal">
+              ABOUT
+            </h1> */}
             
             <div className="text-lg leading-relaxed mb-12 mt-10">
               
-              <p className="mb-6">
+              <p className="mb-6 pt-[50px]">
              Cadence is built by three people who know what it's like to step away from traditional work and face the question: how do you structure time when no one else is doing it for you?
 
               Together, we span our 20s, 30s, and 40s, bringing different perspectives on how people actually live and work. In <span className="font-bold">CADENCE</span> we are building a space where people can understand their own rhythms, honor their needs, and build lives that reflect their values rather than someone else's structure.       </p>       

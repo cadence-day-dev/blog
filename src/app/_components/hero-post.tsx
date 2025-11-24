@@ -31,20 +31,20 @@ export function HeroPost({
   // Team member data (same as in about page)
   const teamMembers = [
     {
-      name: "Driss",
-      image: "/assets/blog/authors/Driss.png",
-      shortDescription: "...",
-      extendedDescription: "..."
-    },
-    {
-      name: "Bruno",
-      image: "/assets/blog/authors/Bruno.png",
+      name: "Andrea",
+      image: "/assets/blog/authors/Andrea.png",
       shortDescription: "...",
       extendedDescription: "..."
     },
     {
       name: "Oleg",
       image: "/assets/blog/authors/Oleg.png",
+      shortDescription: "...",
+      extendedDescription: "..."
+    },
+    {
+      name: "Bruno",
+      image: "/assets/blog/authors/Bruno.png",
       shortDescription: "...",
       extendedDescription: "..."
     },

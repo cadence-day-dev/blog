@@ -31,8 +31,8 @@ export function PostPreview({
   // Team member data (same as in about page)
   const teamMembers = [
     {
-      name: "Driss",
-      image: "/assets/blog/authors/Driss.png",
+      name: "Andrea",
+      image: "/assets/blog/authors/Andrea.png",
       shortDescription: "...",
       extendedDescription: "..."
     },
