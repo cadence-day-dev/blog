@@ -3,6 +3,7 @@ import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import cn from "classnames";
+import { Analytics } from "@vercel/analytics/next";
 
 import "./globals.css";
 
@@ -23,7 +24,6 @@ export const metadata: Metadata = {
     images: [HOME_OG_IMAGE_URL],
   },
 };
-
 
 export default function RootLayout({
   children,
@@ -65,11 +65,10 @@ export default function RootLayout({
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
-      <body
-        className={cn(inter.className, "bg-black text-white")}
-      >
+      <body className={cn(inter.className, "bg-black text-white")}>
         <div className="min-h-screen">{children}</div>
         <Footer />
+        <Analytics />
       </body>
     </html>
   );
