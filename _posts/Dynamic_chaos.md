@@ -1,7 +1,6 @@
 ---
 title: "Dynamic chaos"
-excerpt: "
-At one point when I was living in New York and life was settling down into a very predictable routine, I began to wonder if it was possible to live in several places at the same time, to design a lifestyle where the traveling was built into the dynamic of life itself. That seemed exciting, moving between several worlds simultaneously, experiencing the life with the built-in unpredictability. "
+excerpt: "At one point when I was living in New York and life was settling down into a very predictable routine, I started to yearn for adventure and for a lifestyle where traveling was built into the dynamic of life itself. That seemed exciting, moving between several worlds simultaneously, experiencing life with built-in unpredictability. "
 coverImage: "/assets/blog/chaos/cover.png"
 date: "2025-11-13T05:35:07.322Z"
 author:

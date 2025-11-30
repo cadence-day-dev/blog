@@ -5,7 +5,7 @@ Sometimes I wish I could see all those threads clearly. The time I’ve spent th
 
 Cadence started partly from that wish. To be able to trace things, not just the big moments but the small ones that don’t seem important at the time."
 coverImage: "/assets/blog/threads/cover.png"
-date: "2025-11-15T05:35:07.322Z"
+date: "2025-11-12T05:35:07.322Z"
 author:
   name: Andrea
   picture: "/assets/blog/authors/Andrea.png"
